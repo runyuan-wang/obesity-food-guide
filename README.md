@@ -83,7 +83,6 @@ obesity-food-guide/
 MIT
 
 ---
----
 
 ## 📜 许可 · License
 
